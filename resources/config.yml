@@ -1,0 +1,23 @@
+# Prefix
+prefix: "§f(§7Moon§eTeams§f) "
+# Si il y a aucun nouveau joueur.
+# If there are no new players.
+no-new-players: "There are no new players."
+# Si le joueur se connecte pour la première fois. vous pouvez utiliser {player}
+# If the player is logging in for the first time. can use {player}
+welcome-message: "§e{player} §fhas just joined us for the first time! Welcome him with the §7/welcome §fcommand."
+# Message lorsqu'un joueur fait la commande /welcome et qu'il y a de nouveau joueur. vous pouvez utiliser {players} et {player}.
+# Message when a player makes the command /welcome and there is a new player. you can use {players} and {player}.
+welcome-player-message: "§e{player} has just welcomed the player(s) §e{players}§f."
+# Temps avant la réutilisation de la commande en seconde.
+# Time before the command is reused in seconds.
+cooldown: 30
+# Message du cooldown. utiliser time
+cooldown-message: "You must wait another {time} second(s)"
+# Si vous voulez effectuer une commande lorsqu'un joueur fasse /welcome. utiliser true ou false
+# If you want to perform a command when a player does /welcome. use true or false
+enable-command: true
+# Commande effectué lorsque le joueur fait /welcome. utiliser {player}
+# Command performed when the player does /welcome. use {player}
+commands:
+  - "say {player} example"
