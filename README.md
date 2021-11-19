@@ -1,3 +1,5 @@
+[![](https://poggit.pmmp.io/shield.dl.total/Welcome)](https://poggit.pmmp.io/p/Welcome)
+
 # Welcome
 - Plugin for Minecraft Bedrock Edition using `PocketMine-MP software`. Welcome plugin, welcome the new player by typing the command **/welcome**! And give him a reward for his politeness!
 
