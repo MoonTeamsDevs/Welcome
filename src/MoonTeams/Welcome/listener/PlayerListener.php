@@ -14,7 +14,7 @@ class PlayerListener implements Listener {
     public function onJoin(PlayerJoinEvent $event){
         $player = $event->getPlayer();
         if (!$player->hasPlayedBefore()){
-            self::$welcome[$player->getName()] = time() + 30;
+            self::$welcome[$player->getName()] = time() + Main::getInstance()->getConfig()->get("cooldown");
             Server::getInstance()->broadcastMessage(str_replace(["{player}"], [$player->getName()], Main::getInstance()->getConfig()->get("welcome-message")));
         }
     }
