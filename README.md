@@ -1,9 +1,11 @@
 # Welcome
-- Plugin created by **MoonTeams**, developed in php, using PocketMine-MP software. Made for the Bedrock Edition of Minecraft.
-- Plugin créer par **MoonTeams**, développer en php, utilisation du software de PocketMine-MP. Fait pour la version Bedrock Edition de Minecraft.
+- Plugin for Minecraft Bedrock Edition using PocketMine-MP software. Welcome plugin, welcome the new player by typing the command /welcome! And give him a reward for his politeness!
+
 # Command
+
 | Command        | Permission | Description                        | Alias |
 |--------------|------------|------------------------------------|-------|
 | `/welcome` | * (all)          | Welcome the new player. | none   |
 # Vidéo
-https://youtu.be/U0xkpBJAZuE
+
+[Click here to see the plugin in action.](https://youtu.be/U0xkpBJAZuE)
