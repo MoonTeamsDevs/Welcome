@@ -1,5 +1,5 @@
 # Welcome
-- Plugin for Minecraft Bedrock Edition using PocketMine-MP software. Welcome plugin, welcome the new player by typing the command /welcome! And give him a reward for his politeness!
+- Plugin for Minecraft Bedrock Edition using `PocketMine-MP software`. Welcome plugin, welcome the new player by typing the command **/welcome**! And give him a reward for his politeness!
 
 # Command
 
