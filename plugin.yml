@@ -1,5 +1,5 @@
 name: Welcome
-version: 1.0.0
+version: 1.0.1
 main: MoonTeam\Welcome\Main
 api: 4.0.0
 authors:
