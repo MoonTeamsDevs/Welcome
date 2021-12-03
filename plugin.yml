@@ -1,7 +1,7 @@
 name: Welcome
 version: 1.0.0
-main: MoonTeams\Welcome\Main
-api: 3.0.0
+main: MoonTeam\Welcome\Main
+api: 4.0.0
 authors:
-  - MoonTeams
+  - MoonTeam
   - Zoumi
